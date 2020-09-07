@@ -2,7 +2,7 @@
 
 ## Overview
  
-The goal of this assignment is to modify the existing database of course lab and map the orders to payments in our database modification.
+The goal of this application is to modify the existing database and map the orders to payments in our database modification.
 
 The program will update and extract data under 4 different method
 call which are as provided.
